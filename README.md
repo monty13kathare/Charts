@@ -2,6 +2,17 @@
 
 # Getting Started with Create React App
 
+### ScrennShot
+![image](https://user-images.githubusercontent.com/92872528/191305254-770958e3-d22b-41a0-97d9-abdd2d7642f1.png)
+
+![image](https://user-images.githubusercontent.com/92872528/191305665-975b941d-3640-4d87-b74b-25251cd2eb71.png)
+
+![image](https://user-images.githubusercontent.com/92872528/191305715-da929981-3285-4aff-987d-57ca782b8fbe.png)
+
+![image](https://user-images.githubusercontent.com/92872528/191305740-b37bcdab-2ce3-4711-bcd5-07f67d034450.png)
+![image](https://user-images.githubusercontent.com/92872528/191305765-d5c2c899-d70c-4682-8156-42e24b988e8c.png)
+
+
 
 ## Available Scripts
 
@@ -26,7 +37,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### `yarn run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
@@ -62,6 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+### `yarn run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
